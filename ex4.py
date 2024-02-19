@@ -48,3 +48,6 @@ plt.ylabel('Runtime (seconds)')
 plt.title('Quicksort Worst Case Complexity')
 plt.legend()
 plt.show()
+
+# Yes, the graph matches the calculations because it goes up 
+# in the form O(n^2) with increasing input sizes.
